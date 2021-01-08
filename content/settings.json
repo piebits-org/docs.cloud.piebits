@@ -1,0 +1,10 @@
+{
+  "title": "Piebits Cloud Docs",
+  "url": "docs.cloud.piebits.org",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "piebits-org/docs.cloud.piebits",
+  "twitter": "@piebits_org"
+}
