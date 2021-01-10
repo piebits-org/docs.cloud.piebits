@@ -1,4 +1,4 @@
-# docs.cloud.piebits.org
+# [Documentation](https://docs.cloud.piebits.org)
 
 ## Setup
 
